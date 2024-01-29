@@ -1,0 +1,28 @@
+@font-face {
+
+    font-family: "Jacques Francois Shadow";
+
+    src: url(fonts/JacquesFrancoisShadow-Regular.ttf)
+}
+
+.p1 {
+    font-family: "Jacques Francois Shadow";
+}
+
+@font-face {
+    font-family: "Original Surfer";
+    src: url(fonts/OriginalSurfer-Regular.ttf);
+}
+
+.p2 {
+    font-family: "Original Surfer";
+}
+
+@font-face {
+    font-family: "play";
+    src: url(fonts/Play-Regular.ttf);
+}
+
+.p3 {
+    font-family: "play";
+}
