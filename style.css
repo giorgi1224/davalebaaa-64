@@ -2,7 +2,7 @@
 
     font-family: "Jacques Francois Shadow";
 
-    src: url(fonts/JacquesFrancoisShadow-Regular.ttf)
+    src: url(/FrancoisShadow-Regular.ttf)
 }
 
 .p1 {
@@ -11,7 +11,7 @@
 
 @font-face {
     font-family: "Original Surfer";
-    src: url(fonts/OriginalSurfer-Regular.ttf);
+    src: url(/OriginalSurfer-Regular.ttf);
 }
 
 .p2 {
@@ -20,7 +20,7 @@
 
 @font-face {
     font-family: "play";
-    src: url(fonts/Play-Regular.ttf);
+    src: url(/Play-Regular.ttf);
 }
 
 .p3 {
